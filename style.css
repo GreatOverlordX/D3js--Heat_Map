@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(27, 27, 27, 0.829);
+  text-align: center;
+}
+
+h1,h3,p {
+  text-align: center;
+  color: rgb(252, 252, 252);
+}
+
+.graph {
+  margin: 0 auto;
+  background-color: white;
+}
+
+.tooltip {
+  background-color: rgba(250, 49, 49, 0.877);
+  border: 1px solid black;
+  width: 100px;
+  opacity: 0;
+  color: black;
+  position: absolute;
+}
